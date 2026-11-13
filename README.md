@@ -64,3 +64,5 @@ src/
 Add an object to one of `src/data/courses/*.js` (lessons are `[module, title, explanation, code]`, quiz rows are
 `[question, options, answerIndex, explanation]`), then add its entry in `reference.js`, `setup.js` and, if Devicon has
 a logo, `logos.js`.
+
+Live demo of the code-vidya app - https://e-learning-code-vidya.netlify.app/
